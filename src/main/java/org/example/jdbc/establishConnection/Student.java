@@ -1,4 +1,4 @@
-package org.example.jdbc;
+package org.example.jdbc.establishConnection;
 
 import com.mysql.jdbc.Driver;
 
