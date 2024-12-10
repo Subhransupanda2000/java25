@@ -1,4 +1,4 @@
-package org.example.createStatement;
+package org.example.jdbc.createStatement;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
