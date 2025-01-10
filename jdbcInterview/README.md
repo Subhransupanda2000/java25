@@ -10,6 +10,8 @@ What is the difference between Statement, PreparedStatement, and CallableStateme
 What is the purpose of ResultSet in JDBC?
 How do you handle SQL exceptions in JDBC?
 What is the use of setAutoCommit(false) in JDBC?
+
+
 Intermediate JDBC Questions
 What are batch updates in JDBC, and how do you implement them?
 How can you retrieve metadata in JDBC?
@@ -22,6 +24,8 @@ How do you handle stored procedures in JDBC?
 Explain the difference between forward-only and scrollable ResultSet.
 What is row prefetching in JDBC?
 How can you improve JDBC performance?
+
+
 Advanced JDBC Questions
 What are the drawbacks of JDBC?
 How does JDBC handle database isolation levels?
@@ -35,6 +39,8 @@ Example: CachedRowSet, JdbcRowSet, WebRowSet.
 What is the purpose of the SQLWarning class in JDBC?
 How can you implement secure database access using JDBC?
 What is the role of ORM frameworks like Hibernate compared to raw JDBC?
+
+
 Practical Scenarios
 How would you implement a connection pool manually?
 Write a JDBC program to perform CRUD operations.
